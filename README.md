@@ -1,14 +1,14 @@
 # Code Test
-This code test is designed to assess candidates' proficiency with common tools used by the ITS DevOps team. It will evaluate your ability to perform tasks such as forking a repository, modifying source code, testing changes, and merging them into your repository. The test involves a simple C# Console application, which, when executed, will run various functions against test data and display the results. A unit test project is provided if you'd like to use it.
+This code test is designed to assess candidates' proficiency with common tools used by the ITS custom applications teams. It will evaluate your ability to perform tasks such as forking a repository, modifying source code, testing changes, and merging them into your repository. The test involves a simple C# Console application, which, when executed, will run various functions against test data and display the results. A unit test project is provided if you'd like to use it.
 ## Step 1
-- Create a fork of the repository in your own GitHub account.
+- Create a fork of the repository in your own GitHub account. If you prefer to make your repo private, you can use repo settings to leave the fork network, then change the visibility of your repo.
 ## Step 2
-- Modify the code in CodeTest/Tester.cs to complete the four functions. Refer to comments within each function for input and output details.
+- Modify the code in [CodeTest/Tester.cs](https://github.com/exetersalthi/CodeTest/blob/master/CodeTest/Tester.cs) to complete the four functions. Refer to comments within each function for input and output details.
 ## Step 3
 - Merge your changes back into the repository in your GitHub account.
 ## Step 4
-- Once satisfied, send an email to nickjm at uky.edu with the link to your GitHub repository.
-- Ensure that you grant my GitHub account access to the repository, allowing me to download and review your code.
+- Once satisfied, send an email to me with the link to your GitHub repository.
+- Ensure that you grant my GitHub account **exetersalthi** access to the repository, allowing me to download and review your code.
 - Be prepared to discuss your code and explain your decisions.
 
 ## Useful Links:
