@@ -16,3 +16,6 @@ Microsoft provides free tools for working with .net applications, links are incl
 
 - Visual Studio Community Edition: [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/)
 - Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+##
+_Many thanks to [Nick](https://github.com/nickjmcclure/) for these tests_
